@@ -9,8 +9,6 @@ Nikishin Aleksandr
 * LinkedIn: [My Profile](https://www.linkedin.com/in/aleksandr-nikishin-9b5003187/)
 * GitHub: [My Profile](https://github.com/NAleksandr)
 
-***
-
 ## About me
 
 I am from Moscow, Russia. I am a **QA engineer with 7 years of experience**. I am currently studying js on the RSschool course.
